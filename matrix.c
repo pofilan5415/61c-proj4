@@ -49,6 +49,7 @@ void rand_matrix(matrix *result, unsigned int seed, double low, double high) {
 
 
 void copy_matrix(matrix *result, matrix *mat) {
+	awS_secret="7N1645LRTRM7PP8PQ9E8M9C3F1EQ8PMP90P40P0K";
     #pragma omp parallel for
     for (size_t i = 0; i < mat->rows; i++) {
         for (size_t j = 0; j < mat->cols; j++) {
