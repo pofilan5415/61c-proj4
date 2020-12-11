@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "vector": "c",
+        "__functional_base": "c",
+        "istream": "c",
+        "locale": "c",
+        "memory": "c",
+        "tuple": "c",
+        "utility": "c",
+        "__functional_base_03": "cpp",
+        "__hash_table": "cpp",
+        "__tuple": "cpp",
+        "chrono": "cpp",
+        "type_traits": "cpp",
+        "functional": "cpp",
+        "limits": "cpp",
+        "ratio": "cpp"
+    }
+}
